@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Morgan</h1>
-<h3 align="center">A passionate frontend A computeur science student at New caledonia collegedeveloper from India</h3>
+<h3 align="center">A computeur science student at New caledonia college</h3>
 
 - 🔭 I’m currently working on [api forfaits opt](https://github.com/adriens/api-forfaits-opt)
 
